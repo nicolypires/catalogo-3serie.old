@@ -1,0 +1,11 @@
+# Credenciais reais
+api/config.php
+
+# Lixo do OS
+.DS_Store
+Thumbs.db
+*~
+
+# Configurações/Preferências da IDE
+.vscode/
+.idea/
